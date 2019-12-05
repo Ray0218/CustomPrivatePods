@@ -24,6 +24,6 @@ spec.source_files  =   "KLLogin/Class/**/*.{h,m,swift}"
 # spec.public_header_files = "Classes/**/*.h"
 spec.requires_arc = true
 
-#spec.dependency  "Masonry"
+spec.dependency  'Masonry'
 
 end
